@@ -1,3 +1,3 @@
 # ContestSolutions
-In this repo, i will maintain the codes of all the contest i give, mainly on Leetcode and Codeforces.
-Anyone can refer to these, and if have any doubts then you can contact me also.
+In this repo, i will maintain the codes for questions of contests on Leetcode, Codeforces and Codechef.
+Anyone can refer to these, and if want to add your solutions then you can create a PR.
